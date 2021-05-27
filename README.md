@@ -51,6 +51,9 @@
 
 <br >
 
+#### I love to hear podcasts and read books which makes one smarter
+
+  
 ### 📺 Favorite Podcast
 
 <!-- PODCAST:START -->
