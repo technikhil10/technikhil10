@@ -67,11 +67,11 @@
 
 ### 📚 Favorite Books
 
-[<img align="left" alt="Atomic Habits" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg" />][remove]
-[<img align="left" alt="Pyjama Profit" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/41CJpYdqVwL.jpg" />][remove]
-[<img align="left" alt="Let's Build A Company" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/71aw-JPsQbS.jpg" />][remove]
-[<img align="left" alt="Elon Musk" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg" />][remove]
-[<img align="left" alt="How To Win Friends and Influence People" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/611OWa8x+WL.jpg" />][remove]
+[<img align="left" alt="Atomic Habits" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg" />][remove] &nbsp; &nbsp;
+[<img align="left" alt="Pyjama Profit" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/41CJpYdqVwL.jpg" />][remove] &nbsp; &nbsp;
+[<img align="left" alt="Let's Build A Company" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/71aw-JPsQbS.jpg" />][remove] &nbsp; &nbsp;
+[<img align="left" alt="Elon Musk" width="100px" src="https://m.media-amazon.com/images/I/5179mrE+WWL.jpg" />][remove] &nbsp; &nbsp;
+[<img align="left" alt="How To Win Friends and Influence People" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/611OWa8x+WL.jpg" />][remove] 
 
 
 </details>
