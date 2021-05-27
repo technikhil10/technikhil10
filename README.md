@@ -41,7 +41,6 @@
 ![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=technikhil10&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 <br />
-<br />
 
 ---
 
