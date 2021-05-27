@@ -67,7 +67,11 @@
 
 ### 📚 Favorite Books
 
-[<img align="left" alt="Terminal" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][remove]
+[<img align="left" alt="Atomic Habits" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg" />][remove]
+[<img align="left" alt="Pyjama Profit" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/41CJpYdqVwL.jpg" />][remove]
+[<img align="left" alt="Let's Build A Company" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/71aw-JPsQbS.jpg" />][remove]
+[<img align="left" alt="Elon Musk" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg" />][remove]
+[<img align="left" alt="How To Win Friends and Influence People" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/611OWa8x+WL.jpg" />][remove]
 
 
 </details>
