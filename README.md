@@ -34,20 +34,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=technikhil10.technikhil10)
 
-### Coding Stats
-
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-```
-
-<!--END_SECTION:waka-->
-
 ### Github Stats
 
 ![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=technikhil10&count_private=true&theme=tokyonight&hide=contribs,prs)
@@ -75,6 +61,12 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 - [In Conversation with Kunal Shah, CRED founder | The Sid Warrier Podcast |](https://www.youtube.com/watch?v=FiT1gAocKOg)
 
 <!-- PODCAST:END -->
+  
+
+### 📚 Favorite Books
+
+[<img align="left" alt="Terminal" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]  
+  
 
 </details>
 
