@@ -4,7 +4,7 @@
 <a href="mailto:technikhil10@gmail.com"><img alt="Gmail" title="Mail" src="https://img.shields.io/badge/-Gmail-F0F6FC?style=for-the-badge&logo=gmail&logoColor=#EA4335"/></a>
 
 
-## I'm a Student for lifetime, Developer by Passion and Aspiring Maker!!
+## <img src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" width="30px">&nbsp; I'm a Student for lifetime, Developer by Passion and Aspiring Maker!!
 
 - 🔭 I'm on journey of exploring Javascript ⏳
 - 🌱 I’m currently learning OOP in JS!
@@ -45,9 +45,8 @@
 
 ![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=technikhil10&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-<br />
 
-### Most Used Languages
+### 💻 Most Used Languages
 
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nikhil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technikhil10&langs_count=10&layout=compact#" /></a>
 
@@ -62,7 +61,6 @@
 
   
 ### 📺 Favorite Podcast
-
 <!-- PODCAST:START -->
 
 - [The Inspiring Story Behind Pinterest, Stripe And Gumroad ft. Sahil Lavingia](https://www.youtube.com/watch?v=sgMcuFul3pw)
