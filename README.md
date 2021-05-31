@@ -49,7 +49,7 @@
 
 ### Most Used Languages
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nikhil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech_Nikkhil&langs_count=10&layout=compact#" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nikhil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technikhil10&langs_count=10&layout=compact#" /></a>
 
 ---
 
