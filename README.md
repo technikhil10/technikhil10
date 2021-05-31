@@ -37,7 +37,8 @@
 
 ### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=technikhil10.technikhil10)
+
+![visitors](https://komarev.com/ghpvc/?username=technikhil10&color=dc143c)
 
 <br />
 
@@ -68,6 +69,7 @@
 - [How To Make Your Own Destiny w/ Raj Shamani](https://www.youtube.com/watch?v=sW1fdVOu6Pc&t=455s)
 - [How to Get Rich by Naval](https://www.youtube.com/watch?v=1-TZqOsVCNM)
 - [In Conversation with Kunal Shah, CRED founder | The Sid Warrier Podcast |](https://www.youtube.com/watch?v=FiT1gAocKOg)
+- [Nikhil Kamath, Zerodha Co-Founder on Figuring Out by Raj Shamani](https://open.spotify.com/episode/17NAZQsWAf5xOepe3sWmiN?si=f35bfbc39a3c4e33)
 
 <!-- PODCAST:END -->
   
