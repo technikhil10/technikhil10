@@ -1,6 +1,7 @@
 ### Hi there, I'm Nikhil <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Tech_Nikkhil?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTech_Nikkhil&screen_name=Tech_Nikkhil)
+
 <a href="mailto:technikhil10@gmail.com"><img alt="Gmail" title="Mail" src="https://img.shields.io/badge/-Gmail-F0F6FC?style=for-the-badge&logo=gmail&logoColor=#EA4335"/></a>
 
 
