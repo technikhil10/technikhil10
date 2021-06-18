@@ -59,6 +59,12 @@
   More stuff about me
 </summary>
 
+#### I write ✍ blogs to understand topic better and share it with people.
+ 
+ - ["this" keyword in Javascript](https://technikkhil.hashnode.dev/this-keyword-in-javascript) 
+ 
+ 
+ 
 #### I love to hear 🎧 podcasts and read 🧐 books  which makes one smarter
 
   
