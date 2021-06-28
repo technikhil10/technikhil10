@@ -16,7 +16,7 @@
 - 💬 Favourite Quotes: 
     > "Don't Give up on what you want most for what you want now"
 
-    > "You don't have to be great to start, but you have to start to be great" - Zig Zagler 
+    > "You don't have to be great to start, but you have to start to be great" - Zig Ziglar 
 
 ### Connect with me
 
