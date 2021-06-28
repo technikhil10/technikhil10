@@ -8,10 +8,15 @@
 ## <img src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" width="30px">&nbsp; I'm a Student for lifetime, Developer by Passion and Aspiring Maker!!
 
 - 🔭 I'm on journey of exploring Javascript ⏳
-- 🌱 I’m currently learning Asynchronous JS!
+- 🌱 I’m currently learning NodeJs!
 - 👯 I’m looking to build network and provide value on Twitter
 - 🥅 2021 Goals: Contribute more to Tech Community
 - ⚡ Fun fact: I listen podcasts while coding 🤣
+- 📚 Currently Reading: "Think and Grow Rich" by Napolean Hill
+- 💬 Favourite Quotes: 
+    > "Don't Give up on what you want most for what you want now"
+
+    > "You don't have to be great to start, but you have to start to be great" - Zig Zagler 
 
 ### Connect with me
 
@@ -61,7 +66,8 @@
 
 #### I write ✍ blogs to understand topic better and share it with people.
  
- - ["this" keyword in Javascript](https://technikkhil.hashnode.dev/this-keyword-in-javascript) 
+ - ["this" keyword in Javascript](https://dev.to/tech_nikkhil/this-keyword-in-javascript-3li) 
+ - [Modern Javascript Development Environment](https://dev.to/tech_nikkhil/modern-javascript-development-environment-nik)
  
  
  
