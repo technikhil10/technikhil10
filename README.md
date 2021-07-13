@@ -63,6 +63,12 @@
 <summary>
   More stuff about me
 </summary>
+    
+#### I'm documenting ✍ my journey of learning Evolution of Money, Blockchain ₿, Crypto.
+    
+    
+ - [Crypto Learning Notes](https://www.notion.so/Crypto-Learning-Notes-aeb31978175c462a889991e5f83fcdd1)   
+    
 
 #### I write ✍ blogs to understand topic better and share it with people.
  
