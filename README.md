@@ -12,7 +12,7 @@
 - 👯 I’m looking to build network and provide value on Twitter
 - 🥅 2021 Goals: Contribute more to Tech Community
 - ⚡ Fun fact: I listen podcasts while coding 🤣
-- 📚 Currently Reading: "Think and Grow Rich" by Napolean Hill
+- 📚 Currently Reading: "Zero to One" by Peter Thiel
 - 💬 Favourite Quotes: 
     > "Don't Give up on what you want most for what you want now"
 
